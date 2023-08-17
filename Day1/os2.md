@@ -2,7 +2,7 @@
 
 **Program VS Process**
 | Program | Process |
-|:------- |  -----: |
+|:------- |  :----- |
 |Instruction in any programming language | Instruction in machine code |
 |Resides in secondary storage device | Resides in the main memory |
 |Only needs memory for storage | Resource requirement is quite high |
@@ -12,7 +12,7 @@
 
 **Thread VS Process**
 | Thread | Process |
-|:------ |  -----: |
+|:------ |  :----- |
 |Easier to create and terminate | Not easy to create and terminate |
 |Multiple threads when in same process share same address | Do not share same address |
 |Easy to communicate between threads | Communication between processes requires OS intervention |
