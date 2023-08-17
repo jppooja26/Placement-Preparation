@@ -10,6 +10,7 @@ This repository is packed with a diverse list of resources to help you conquer c
     I. Day 1
         1. Check if a LinkedList is a Palindrome or not - DSA(LinkedList)
         2. Main purpose of operating system and its types - OS
+        3. Difference between process, program and threads. Different types of processes.
 </pre>
 
 While this repository is designed to aid your preparation, interview success depends on various factors. Use these resources as part of a well-rounded preparation strategy.
