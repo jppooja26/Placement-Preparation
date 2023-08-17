@@ -9,6 +9,7 @@ This repository is packed with a diverse list of resources to help you conquer c
 <pre>
     I. Day 1
         1. Check if a LinkedList is a Palindrome or not
+        2. Main purpose of operating system and its types
 </pre>
 
 While this repository is designed to aid your preparation, interview success depends on various factors. Use these resources as part of a well-rounded preparation strategy.
