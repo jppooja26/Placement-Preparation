@@ -1,3 +1,4 @@
+package Day1;
 //Time complexity - O(n)
 //Space complexity - O(n)
 import java.util.ArrayList;
