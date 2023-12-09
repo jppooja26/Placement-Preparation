@@ -11,6 +11,7 @@ https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
     I. first-java
         1. Print whether a number is even or odd by getting input from the user.
         2. Take name as input and print a greeting message for that particular name.
+        3. Program to input principal, time, and rate (P,R,T) from the user and find Simple Interest
 </pre>
 
 While this repository is designed to aid your preparation, interview success depends on various factors. Use these resources as part of a well-rounded preparation strategy.
