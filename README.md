@@ -8,7 +8,7 @@ This repository is packed with solutions to kunal-kushwaha's DSA-Bootcamp-Java p
 https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
 
 <pre>
-    I. 02-first-java
+    I. first-java
         1. Print whether a number is even or odd by getting input from the user.
         2. Take name as input and print a greeting message for that particular name.
 </pre>
