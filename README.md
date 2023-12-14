@@ -13,6 +13,7 @@ https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
         2. Take name as input and print a greeting message for that particular name.
         3. Program to input principal, time, and rate (P,R,T) from the user and find Simple Interest
         4. Take two numbers and an operator (+, -, *, /) and calculate the value (Use if condition).
+        5. Take two numbers as input and print the largest number.
 </pre>
 
 While this repository is designed to aid your preparation, interview success depends on various factors. Use these resources as part of a well-rounded preparation strategy.
