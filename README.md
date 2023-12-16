@@ -14,6 +14,7 @@ https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
         3. Program to input principal, time, and rate (P,R,T) from the user and find Simple Interest
         4. Take two numbers and an operator (+, -, *, /) and calculate the value (Use if condition).
         5. Take two numbers as input and print the largest number.
+        6. Input currency in rupees and output in USD
 </pre>
 
 While this repository is designed to aid your preparation, interview success depends on various factors. Use these resources as part of a well-rounded preparation strategy.
