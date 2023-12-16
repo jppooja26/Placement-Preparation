@@ -16,6 +16,7 @@ https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
         5. Take two numbers as input and print the largest number.
         6. Input currency in rupees and output in USD.
         7. To calculate fibonacci series up to n numbers.
+        8. To find out whether the given string is Palindrome or not.
 </pre>
 
 While this repository is designed to aid your preparation, interview success depends on various factors. Use these resources as part of a well-rounded preparation strategy.
