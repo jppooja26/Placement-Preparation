@@ -18,6 +18,9 @@ https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
         7. To calculate fibonacci series up to n numbers.
         8. To find out whether the given string is Palindrome or not.
         9. To find Armstrong number between two numbers.
+    II. conditionals-loops
+        Basics
+        1. Area of circle.
 </pre>
 
 While this repository is designed to aid your preparation, interview success depends on various factors. Use these resources as part of a well-rounded preparation strategy.
