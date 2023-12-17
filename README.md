@@ -21,6 +21,31 @@ https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
     II. conditionals-loops
         Basics
         1. Area of circle.
+        2. Area of triangle.
+        3. Area of rectangle.
+        4. Area of isosceles triangle.
+        5. Area of parallelogram.
+        6. Area of rhombus.
+        7. Area of equilateral triangle.
+        8. Perimeter of circle.
+        9. Perimeter of equilateral triangle.
+        10. Perimeter of parallelogram.
+        11. Perimeter of rectangle.
+        12. Perimeter of square.
+        13. Perimeter of rhombus.
+        14. Volume of cone.
+        15. Volume of prism.
+        16. Volume of cylinder.
+        17. Volume of sphere.
+        18. Volume of pyramid.
+        19. Curved surface area of cylinder.
+        20. Total surface area of cube.
+        21. Fibonacci series.
+        22. Subtract the product and sum of digits of an integer.
+        23. Input a number and print all the factors of that number (use loops).
+        24. Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)
+        25. Take integer inputs till the user enters 0 and print the largest number from all.
+        26. Addition of two Numbers
 </pre>
 
 While this repository is designed to aid your preparation, interview success depends on various factors. Use these resources as part of a well-rounded preparation strategy.
