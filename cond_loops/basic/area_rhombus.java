@@ -1,4 +1,4 @@
-package cond_loops;
+package cond_loops.basic;
 import java.util.Scanner;
 public class area_rhombus {
     public static void main(String[] args) {

@@ -46,6 +46,16 @@ https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
         24. Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)
         25. Take integer inputs till the user enters 0 and print the largest number from all.
         26. Addition of two Numbers
+        Intermediate
+        1. Factorial program.
+        2. Calculate electricity bill.
+        3. Calculate the average of n numbers.
+        4. Calculate discount of a product.
+        5. Calculate distance between two points.
+        6. Calculate commission percentage.
+        7. Power.
+        8. Calculate depreciation of a value.
+        9. Calculate batting average.
 </pre>
 
 While this repository is designed to aid your preparation, interview success depends on various factors. Use these resources as part of a well-rounded preparation strategy.

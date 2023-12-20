@@ -1,13 +1,13 @@
-package cond_loops;
+package cond_loops.basic;
 
 import java.util.Scanner;
 
-public class vol_sphere {
+public class peri_circle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the radius of the sphere: ");
+        System.out.print("Enter radius of the circle: ");
         double r = sc.nextDouble();
-        System.out.println("Volume of sphere: "+ (4/3)*3.14*r*r*r);
+        System.out.println("Perimeter of the circle: "+(2*3.14*r));
         sc.close();
     }
 }
