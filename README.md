@@ -56,6 +56,23 @@ https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
         7. Power.
         8. Calculate depreciation of a value.
         9. Calculate batting average.
+        10. Calculate CGPA.
+        11. Compound interest.
+        12. Calculate average marks.
+        13. Sum of N numbers.
+        14. Armstrong number.
+        15. Find nCr and nPr.
+        16. Reverse a string.
+        17. Find if a number is a Palindrome or not.
+        18. Future Investment Value.
+        19. HCF Of Two Numbers Program.
+        20. LCM Of Two Numbers.
+        21. Vowel or Consonent.
+        22. Perfect number.
+        23. Check Leap year or not.
+        24. Sum Of A Digits Of Number.
+        25. Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.
+        26. Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
 </pre>
 
 While this repository is designed to aid your preparation, interview success depends on various factors. Use these resources as part of a well-rounded preparation strategy.
