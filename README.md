@@ -95,6 +95,12 @@ https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
         11. Write a function to check if a given triplet is a Pythagorean triplet or not. (A Pythagorean triplet is when the sum of the square of two numbers is equal to the square of the third number).
         12. Write a function that returns all prime numbers between two given numbers.
         13. Write a function that returns the sum of first n natural numbers.
+    IV. Arrays
+        1. Build array for permutation.
+        2. Concatenation of Array.
+        3. Running sum of 1d Array.
+        4. Richest Customer Wealth
+        5. Shuffle the Array
 </pre>
 
 While this repository is designed to aid your preparation, interview success depends on various factors. Use these resources as part of a well-rounded preparation strategy.
