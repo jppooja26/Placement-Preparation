@@ -101,6 +101,11 @@ https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
         3. Running sum of 1d Array.
         4. Richest Customer Wealth
         5. Shuffle the Array
+        6. Kids With the Greatest Number of Candies
+        7. Number of Good Pairs
+        8. How Many Numbers Are Smaller Than the Current Number
+        9. Create Target Array in the Given Order
+        10. Check if the Sentence Is Pangram
 </pre>
 
 While this repository is designed to aid your preparation, interview success depends on various factors. Use these resources as part of a well-rounded preparation strategy.
