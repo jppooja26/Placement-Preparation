@@ -106,6 +106,11 @@ https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
         8. How Many Numbers Are Smaller Than the Current Number
         9. Create Target Array in the Given Order
         10. Check if the Sentence Is Pangram
+        11. Count Items Matching a Rule
+        12. Find the Highest Altitude 
+        13. Flipping an Image
+        14. Cells with Odd Values in a Matrix
+        15. Matrix Diagonal Sum
 </pre>
 
 While this repository is designed to aid your preparation, interview success depends on various factors. Use these resources as part of a well-rounded preparation strategy.
