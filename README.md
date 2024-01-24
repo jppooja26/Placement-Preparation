@@ -111,6 +111,9 @@ https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
         13. Flipping an Image
         14. Cells with Odd Values in a Matrix
         15. Matrix Diagonal Sum
+        16. Find Numbers with Even Number of Digits
+        17. Transpose Matrix
+        18. Add to Array-Form of Integer
 </pre>
 
 While this repository is designed to aid your preparation, interview success depends on various factors. Use these resources as part of a well-rounded preparation strategy.
