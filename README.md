@@ -114,6 +114,16 @@ https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
         16. Find Numbers with Even Number of Digits
         17. Transpose Matrix
         18. Add to Array-Form of Integer
+        19. Maximum Population Year
+        20. Determine Whether Matrix Can Be Obtained By Rotation
+        21. Two Sum
+        22. Find N Unique Integers Sum up to Zero
+        23. Lucky Number In a Matrix
+        24. Maximum Subarray
+        25. Reshape the Matrix
+        26. Plus One
+        27. Remove Duplicates from Sorted Array
+        28. Minimum Cost to Move Chips to The Same Position
 </pre>
 
 While this repository is designed to aid your preparation, interview success depends on various factors. Use these resources as part of a well-rounded preparation strategy.
