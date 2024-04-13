@@ -96,6 +96,7 @@ https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
         12. Write a function that returns all prime numbers between two given numbers.
         13. Write a function that returns the sum of first n natural numbers.
     IV. Arrays
+        Easy
         1. Build array for permutation.
         2. Concatenation of Array.
         3. Running sum of 1d Array.
@@ -124,6 +125,17 @@ https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
         26. Plus One
         27. Remove Duplicates from Sorted Array
         28. Minimum Cost to Move Chips to The Same Position
+        Medium
+        1. Spiral Matrix
+        2. Spiral Matrix II
+        3. Spiral Matrix III
+        4. Set Matrix Zeroes
+        5. Product of Array Except Self
+        6. Find First and Last Position of Element in Sorted Array
+        7. Jump Game
+        8. Rotate Array
+        9. Sort Colors
+        10. House Robber
 </pre>
 
 While this repository is designed to aid your preparation, interview success depends on various factors. Use these resources as part of a well-rounded preparation strategy.
