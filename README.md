@@ -136,6 +136,10 @@ https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
         8. Rotate Array
         9. Sort Colors
         10. House Robber
+        Hard
+        1. Max Value of Equation
+        2. First Missing Positive
+        3. Good Array
 </pre>
 
 While this repository is designed to aid your preparation, interview success depends on various factors. Use these resources as part of a well-rounded preparation strategy.
